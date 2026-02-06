@@ -1,0 +1,6 @@
+﻿{
+  "supplier_name": "Acme Corp",
+  "po_number": "PO-12345",
+  "expected_date": "2025-02-15",
+  "current_date": "2025-02-20"
+}
