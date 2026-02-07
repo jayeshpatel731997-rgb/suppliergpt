@@ -1,0 +1,14 @@
+# Python / backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Node / frontend
+frontend/node_modules/
+# Ignore Python venv & caches
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment file
+.env
